@@ -5,6 +5,7 @@ source ~/.zshrc
 
 
 # Get current date, year, and month
+TIMESTAMP=$(date +"%Y-%m-%d %H:%M:%S -0800")
 DATE=$(date +"%Y-%m-%d")
 YEAR=$(date +"%Y")
 MONTH=$(date +"%m")
@@ -24,12 +25,12 @@ cat > _posts/$YEAR/$MONTH/$DATE-$SLUG.md <<EOL
 ---
 title: "$TITLE"
 permalink: /blog/$SLUG
-date: $DATE
+date: $TIMESTAMP
 categories:
 - Category
 tags: [] 
 image:
-    path: /assets/img/headers/osb-data-source-update.png
+    path: /assets/img/headers/$SLUG.png
 ---
 
 

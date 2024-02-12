@@ -5,7 +5,7 @@ source ~/.zshrc
 
 
 # Get current date, year, and month
-TIMESTAMP=$(date +"%Y-%m-%d %H:%M:%S -0800")
+TIMESTAMP=$(date +"%Y-%m-%d %H:%M:%S +0800")
 DATE=$(date +"%Y-%m-%d")
 YEAR=$(date +"%Y")
 MONTH=$(date +"%m")

@@ -1,10 +1,12 @@
 ---
-title: How to Update OSB Data Source Connections
-date: 2023-02-10 08:26:00
-categories: [meta]
-tags: [meta]     # TAG names should always be lowercase
+title: "How to Update OSB Data Source Connections"
+permalink: /blog/osb-data-source-update
+date: 2024-02-11
+categories:
+- Oracle Service Bus
+tags: [osb,wlst]
 image:
-    path: /assets/img/headers/truenas-optimizations-hero.webp
+    path: /assets/img/headers/osb-data-source-update.png
 ---
 
 If you create a WebLogic domain for Oracle Service Bus, it will ask you to create database schemas using the Repository Creation Utility or RCU. The OSB WebLogic domain will require connectivity to these database schemas to start up successfully.

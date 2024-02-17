@@ -22,4 +22,4 @@ I am anxious about this because, even after multiple research shows zone 2 ridin
 
 After an hour of the Half Monty Test, I am surprised and delighted to know that my FTP increased - **154W**! I am super glad because now I can truly say that zone 2 riding actually works! I got so excited to continue my training tomorrow, even if that means riding for at least 2 hours 😅.
 
-I just need to continue following this training plan (even its strength training too) because now I have a gauge to say that I am actually improving. 
+I just need to continue following this training plan (even its strength training too) because now I have a gauge to say that I am actually improving.

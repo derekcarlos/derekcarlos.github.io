@@ -37,4 +37,4 @@ The data scrubbing part has got me thinking - it's been two months now that my e
 
 The thing is, I don't have that much money to shell out on either option 2 or 3, and as much as I want to play around setting up everything on my own, it can be daunting, especially when I am busy with work and suddenly it fails and I am the only tech support around the house.
 
-Maybe in the future I can expand my home lab but for now it's best to start with what I have.
+Maybe in the future I can expand my home lab but for now it's best to start with what I have. 

@@ -20,8 +20,7 @@ One of my friends have bought a Minisforum Mini PC for his wife and it has worke
 
 Here comes Minisforum MS-01.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bC1A2qrJmRE?si=1OPyLof2lPIn0n2_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
+{% include embed/youtube.html id='bC1A2qrJmRE' %}
 
 I initially planned to use this as a Plex Server - but given that its CPU (Intel i9-13900H) has 14 cores and Intel QuickSync support, it will be complete waste if I only install a Windows OS in here and run Plex server. I thought it would be a good entry into the world of home lab - and so now I have been thinking of installing VMs in it, one of which would run Plex Server. I still don't know what other VMs I would run, but I am excited to go deep into this.
 

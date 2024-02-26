@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/zsh
 
 # Make sure API key loads from .zshrc file
 source ~/.zshrc

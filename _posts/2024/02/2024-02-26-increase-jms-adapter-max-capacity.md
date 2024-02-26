@@ -33,4 +33,5 @@ We needed to increase the Max Capacity of the JMS Adapter, where `eis/wls/Queue`
 11. Activate changes made in the session
 12. Restart managed servers
 
-Make sure to check if the exact error is encountered in your case. Take note of the existing configuration prior to updating them.
+>Make sure to check if the exact error is encountered in your case. Take note of the existing configuration prior to updating them.
+{: .prompt-warning }

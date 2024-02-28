@@ -61,4 +61,5 @@ cd $ORACLE_HOME/oracle_common/rda
 
 RDA will create a zipped file of the data collected and put it in the RDA Home.
 
-So there you go! You can extract that folder and open `__RDAstart.htm` to see the output.
+So there you go! You can extract that folder and open `__RDAstart.htm` to see the output. 
+

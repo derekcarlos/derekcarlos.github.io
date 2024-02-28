@@ -20,7 +20,7 @@ That looked simple, right? That means just install the Perl modules right!?!
 
 Okay sorry, I sounded defensive. I just haven't installed Perl Modules via CPAN, let alone on a Mac before. In Windows I would just extract the zipped module into the libraries there, which worked well because I know Perl is installed on a local folder, isolated from the rest. But I am not sure if the same approach can be done on macOS.
 
-So I decided to use cpan:
+So I decided to use cpan: 
 
 ```bash
 cpan GD

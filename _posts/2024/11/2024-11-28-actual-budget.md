@@ -40,7 +40,7 @@ Enter [Actual Budget](https://actualbudget.org/).
 
 I recently repurposed a refurbished Lenovo mini PC as a home server for running Docker applications. While exploring containerized apps, I stumbled upon Firefly III, a feature-rich financial manager. However, as someone new to budgeting (yep, budget virgin here[^1]), I found it overwhelming. That's when I discovered **Actual Budget**.
 
-Actual Budget started as a paid service but is now open-source, allowing anyone to host their own instance for free. This was exactly what I needed. Their ~[documentation](https://actualbudget.org/)~ is thorough and beginner-friendly, making it easy to set up my accounts and budgets.
+Actual Budget started as a paid service but is now open-source, allowing anyone to host their own instance for free. This was exactly what I needed. Their [documentation](https://actualbudget.org/) is thorough and beginner-friendly, making it easy to set up my accounts and budgets.
 
 One standout feature is its **CSV import support**. I can export my credit card data from my bank, transform it into a CSV file, and upload it to Actual Budget. Among my banks, UnionBank stands out for offering clean Excel exports, making the CSV transformation a breeze. Because of this, I've started using my UnionBank credit card for most purchases to keep my transactions centralized.
 

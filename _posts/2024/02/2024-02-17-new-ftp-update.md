@@ -2,8 +2,7 @@
 title: "New FTP Update!"
 permalink: /blog/new-ftp-update
 date: 2024-02-17 19:52:50 +0800
-categories:
-- Cycling
+categories: [Lifestyle, Cycling]
 tags: [cycling,training] 
 image:
     path: /assets/img/headers/new-ftp-update.png

@@ -2,8 +2,7 @@
 title: "How to Update OSB Data Source Connections"
 permalink: /blog/osb-data-source-update
 date: 2024-02-11
-categories:
-- Oracle Service Bus
+categories: [How-To, Oracle Service Bus]
 tags: [osb,wlst]
 image:
     path: /assets/img/headers/osb-data-source-update.png

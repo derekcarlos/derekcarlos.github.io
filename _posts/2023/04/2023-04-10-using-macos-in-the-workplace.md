@@ -2,8 +2,7 @@
 title: "Using macOS in the Workplace"
 permalink: /blog/using-macos-in-the-workplace
 date: 2023-04-10 08:00:00 +0800
-categories:
-- macOS
+categories: [How-To, macOS]
 tags: [macos] 
 image:
     path: /assets/img/headers/using-macos-in-the-workplace.png

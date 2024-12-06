@@ -2,8 +2,7 @@
 title: "How to Create Users in WebLogic via WLST"
 permalink: /blog/wlst-create-users
 date: 2024-02-12 10:08:19 +0800
-categories:
-- Oracle WebLogic
+categories: [How-To, Oracle WebLogic]
 tags: [wlst] 
 image:
     path: /assets/img/headers/wlst-create-users.png

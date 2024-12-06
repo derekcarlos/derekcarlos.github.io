@@ -2,8 +2,7 @@
 title: "Organize External Monitors with Display Placer"
 permalink: /blog/display-placer-external-monitors
 date: 2024-02-19 12:17:25 +0800
-categories:
-- macOS
+categories: [How-To, macOS]
 tags: [displayplacer] 
 image:
     path: /assets/img/headers/display-placer-external-monitors.png

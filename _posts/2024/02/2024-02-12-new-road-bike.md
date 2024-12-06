@@ -2,8 +2,7 @@
 title: "I am Finally a Roadie"
 permalink: /blog/new-road-bike
 date: 2024-02-12 08:00:00 +0800
-categories:
-- Cycling
+categories: [Lifestyle, Cycling]
 tags: [road,cycling] 
 image:
     path: /assets/img/headers/new-road-bike.png

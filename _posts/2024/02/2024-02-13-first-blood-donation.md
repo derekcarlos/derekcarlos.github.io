@@ -2,8 +2,7 @@
 title: "My First Blood Donation"
 permalink: /blog/first-blood-donation
 date: 2024-02-13 09:46:34 +0800
-categories:
-- Health
+categories: [Lifestyle, Health]
 tags: [health,fitness] 
 image:
     path: /assets/img/headers/first-blood-donation.png 

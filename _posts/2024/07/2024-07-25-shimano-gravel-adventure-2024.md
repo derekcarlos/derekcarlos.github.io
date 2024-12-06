@@ -2,8 +2,7 @@
 title: "Shimano Gravel Adventure 2024"
 permalink: /blog/shimano-gravel-adventure-2024
 date: 2024-07-25 11:14:17 +0800
-categories:
-- Cycling
+categories: [Lifestyle, Cycling]
 tags: [cycling] 
 image:
     path: /assets/img/headers/shimano-gravel-adventure-2024.png

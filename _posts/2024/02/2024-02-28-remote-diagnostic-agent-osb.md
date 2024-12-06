@@ -2,8 +2,7 @@
 title: "How to Run Remote Diagnostic Agent on OSB Domain"
 permalink: /blog/remote-diagnostic-agent-osb
 date: 2024-02-28 12:38:02 +0800
-categories:
-- Oracle Service Bus
+categories: [How-To, Oracle Service Bus]
 tags: [osb,rda] 
 image:
     path: /assets/img/headers/remote-diagnostic-agent-osb.png

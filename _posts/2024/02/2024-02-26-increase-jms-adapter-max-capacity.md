@@ -2,8 +2,7 @@
 title: "Increase JMS Adapter Max Capacity"
 permalink: /blog/increase-jms-adapter-max-capacity
 date: 2024-02-26 16:48:16 +0800
-categories:
-- Oracle Service Bus
+categories: [How-To, Oracle Service Bus]
 tags: [jms] 
 image:
     path: /assets/img/headers/increase-jms-adapter-max-capacity.png

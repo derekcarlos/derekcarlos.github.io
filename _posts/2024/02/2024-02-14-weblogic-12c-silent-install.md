@@ -2,8 +2,7 @@
 title: "How to Install WebLogic 12c in Silent Mode"
 permalink: /blog/weblogic-12c-silent-install
 date: 2024-02-14 13:19:37 +0800
-categories:
-- Oracle WebLogic
+categories: [How-To, Oracle WebLogic]
 tags: [weblogic,silent install] 
 image:
     path: /assets/img/headers/weblogic-12c-silent-install.png

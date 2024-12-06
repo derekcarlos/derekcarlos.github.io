@@ -2,8 +2,7 @@
 title: "Actual Budget"
 permalink: /blog/actual-budget
 date: 2024-11-28 15:37:15 +0800
-categories:
-- Category
+categories: [How-To, Budgeting]
 tags: [homelab, budget] 
 image:
     path: /assets/img/headers/actual-budget.png

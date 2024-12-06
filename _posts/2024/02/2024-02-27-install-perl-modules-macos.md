@@ -2,8 +2,7 @@
 title: "How to Install Perl Modules on macOS"
 permalink: /blog/install-perl-modules-macos
 date: 2024-02-27 13:31:45 +0800
-categories:
-- macOS
+categories: [How-To, macOS]
 tags: [macos,perl] 
 image:
     path: /assets/img/headers/install-perl-modules-macos.png

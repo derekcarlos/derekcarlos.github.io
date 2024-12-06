@@ -2,8 +2,7 @@
 title: "Our First PCF Experience"
 permalink: /blog/our-first-pcf-experience
 date: 2023-03-15 08:08:00 +0800
-categories:
-- Cycling
+categories: [Lifestyle, Cycling]
 tags: [road,cycling] 
 image:
     path: /assets/img/headers/our-first-pcf-experience.png
